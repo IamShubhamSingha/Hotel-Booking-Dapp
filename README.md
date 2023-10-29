@@ -23,33 +23,33 @@ Note: This project also have Google Map API integration. You can generate you fr
 <br>
 
 #  **Images**
-![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/o.png)
-![Front end SS](./src/images/b.png)
-![Front end SS](./src/images/c.png)
-![Front end SS](./src/images/d.png)
-![Front end SS](./src/images/e.png)
-![Front end SS](./src/images/f.png)
-![Rental ss](./src/images/t.png)
-![Rental ss](./src/images/u.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/a.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/b.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/c.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/d.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/e.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/f.png)
+![Rental ss](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/t.png)
+![Rental ss](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/u.png)
 
 <br>
 
 ###  Smart contract Screenshot
 
 
-![Front end SS](./src/images/g.png)
-![Front end SS](./src/images/h.png)
-![Front end SS](./src/images/i.png)
-![Front end SS](./src/images/j.png)
-![Front end SS](./src/images/k.png)
-![Front end SS](./src/images/l.png)
-![Front end SS](./src/images/m.png)
-![Front end SS](./src/images/n.png)
-![Front end SS](./src/images/o.png)
-![Front end SS](./src/images/p.png)
-![Front end SS](./src/images/q.png)
-![Front end SS](./src/images/r.png)
-![Front end SS](./src/images/s.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/g.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/h.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/i.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/j.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/k.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/l.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/m.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/n.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/o.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/p.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/q.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/r.png)
+![Front end SS](https://github.com/IamShubhamSingha/Hotel-Booking-Dapp/blob/main/s.png)
 
 
 
