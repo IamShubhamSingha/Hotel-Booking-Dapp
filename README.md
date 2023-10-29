@@ -13,7 +13,7 @@
 5. Setup [Moralis.io](https://moralis.io/) server.
 6. Thats it.
 
-Note: This project also have Google Map API integration. You can generate you free API and use it.
+Note: This project also have Google Map API integration. You can generate your free API and use it.
 
 <br>
 <br>
